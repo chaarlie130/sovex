@@ -8,10 +8,10 @@
 </head>
 <body>
     <div class="topbar"><div class="logo"><img src="Logo.png"></div><div class="navigation"><h3>About</h3><h3>Technologies</h3><a>Pricing</a></div></div>
-    <div class="main-content"><h1>Ai integration built for</h1><h2>small</h2><h1>businesses</h1><button>Free consultation</button></div>
+    <div class="main-content"><h1>AI automation built for <span>small</span> businesses</h1><button>Free consultation</button></div>
     <div class="solutions"><h1>Solutions made to last</h1></div>
     <script src="script.js"></script>
-</body>
+
 <style>
     body {
     font-family: Arial, sans-serif;
@@ -65,6 +65,8 @@ footer {
 .main-content h1 {
     font-size: 50px;
     margin: 0px 20px;
+    width: 440px; /* Changed from inline-size to width for consistency */
+    text-align: center;
 }
 
 .navigation {
@@ -104,6 +106,13 @@ footer {
     margin: 50px 200px;
     font-weight: bold;
     font-size: 19px;
+}.main-content span {
+    color: #FF9500;
+    font-style: italic;
 }
+
+.solutions {width: 100%;}
 </style>
+
+</body>
 </html>
