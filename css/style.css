@@ -815,7 +815,7 @@ a {
 }
 @media only screen and (max-width: 480px) {
     .main-content h1 {
-        font-size: 40px;
+        font-size: 70px;
     }
     .bubbles {
         margin-top: 140px;
@@ -824,8 +824,9 @@ a {
 @media only screen and (max-width: 480px) {
     .main-content button {
         padding: 15px 20px;
-        font-size: 14px;
+        font-size: 30px;
         margin: 20px auto;
         font-weight: 100;
+        margin-top: 60px;
     }
 }
