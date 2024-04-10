@@ -1,0 +1,32 @@
+<svg width="555" height="451" viewBox="0 0 555 451" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_756_1011)">
+<rect width="555" height="451" rx="16" fill="white" fill-opacity="0.3"/>
+</g>
+<path d="M59 148H115.536V230H45V162C45 154.268 51.268 148 59 148Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M115.493 148H186.029V230H115.493V148Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M185.985 148H256.521V230H185.985V148Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M256.479 148H327.015V230H256.479V148Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M326.971 148H397.507V230H326.971V148Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M397.464 148H454C461.732 148 468 154.268 468 162V230H397.464V148Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M45 312H115.536V394H59C51.268 394 45 387.732 45 380V312Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M115.493 312H186.029V394H115.493V312Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M185.985 312H256.521V394H185.985V312Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M256.479 312H327.015V394H256.479V312Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M326.971 312H397.507V394H326.971V312Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M397.464 312H468V380C468 387.732 461.732 394 454 394H397.464V312Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M45 230H115.536V312H45V230Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M115.493 230H186.029V312H115.493V230Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M185.985 230H256.521V312H185.985V230Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M256.479 230H327.015V312H256.479V230Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M326.971 230H397.507V312H326.971V230Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M397.464 230H468V312H397.464V230Z" stroke="#C7C7C7" stroke-width="2"/>
+<path d="M44 76H474" stroke="#C7C7C7" stroke-width="2" stroke-linecap="round"/>
+<defs>
+<filter id="filter0_b_756_1011" x="-30" y="-30" width="615" height="511" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="15"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_756_1011"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_756_1011" result="shape"/>
+</filter>
+</defs>
+</svg>
