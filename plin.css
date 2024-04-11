@@ -320,6 +320,9 @@ footer {
     .topbar,
     .navigation {
         flex-direction: column;
+        display: flex;
+        width: 200px;
+        align-content: flex-start;
     }
 
     .navigation h3,
@@ -333,7 +336,7 @@ footer {
 
     .main-content button {
         padding: 10px; /* Slightly reduce button padding */
-        font-size: 14px; /* Reduce font size for consistency */
+        font-size: 24px !important; /* Reduce font size for consistency */
         margin: 20px auto; /* Ensure central alignment */
     }
 
@@ -423,10 +426,16 @@ a {
 }
 @media only screen and (max-width: 480px) {
     .main-content h1 {
-        font-size: 70px;
+        font-size: 60px;
     }
     .bubbles {
         margin-top: 140px;
+        width: 257px;
+        display: flex;
+        flex-direction: row;
+        overflow: scroll;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
     }
 }
 @media only screen and (max-width: 480px) {
@@ -437,4 +446,35 @@ a {
         font-weight: 100;
         margin-top: 60px;
     }
+}
+@media only screen and (max-width: 500px) {
+    .solutions {
+        display:none;
+    }
+    .main-content, .solutions {
+        width: 45%; /* Adjust based on your design preference */
+        padding: 20px;
+    }
+    body {
+        display: flex !important;
+        width: 100vw;
+        align-items: center;
+        align-content: center;
+        margin: 0px !important;
+    }
+
+
+
+.mobile-content {
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    width: 00px;
+}
+
+.mobile-content {
+    width: 300px !important;
+}
 }
